@@ -27,6 +27,7 @@ body {
     height: 50px;
     width: 50px;
     cursor: pointer;
+    transition: transform 2s ease
 }
 
 .search .input{
@@ -36,10 +37,10 @@ body {
     height: 50px;
     width: 200px;
     padding: 15px;
-    box-sizing: border-box;
+    transition: width 2s ease
 }
 
-.search .input:focus {
+.search.input:focus {
     outline: none;
 }
 
