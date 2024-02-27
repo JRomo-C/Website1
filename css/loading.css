@@ -11,7 +11,6 @@ body {
 .loading-text{
     font-size: 50px;
     color: white;
-    opacity: 1;
 }
 
 .bg {
@@ -22,5 +21,4 @@ body {
     background-image: url("images/coolz.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    filter :blur(30px);
 }
