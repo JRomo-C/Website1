@@ -19,7 +19,7 @@ body {
 .panel {
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: ;
     height: 80vh;
     border-radius: 30px;
     color: magenta;
@@ -40,5 +40,9 @@ body {
     bottom: 20px;
     left : 20px;
     margin: 0px;
-    opacity: 0px;
+    opacity: 0;
+}
+
+.panel.active h3 {
+    opacity: 1;
 }
