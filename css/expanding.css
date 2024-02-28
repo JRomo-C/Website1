@@ -19,7 +19,7 @@ body {
 .panel {
     background-size: cover;
     background-position: center;
-    background-repeat: ;
+    background-repeat: no-repeat;
     height: 80vh;
     border-radius: 30px;
     color: magenta;
