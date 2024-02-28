@@ -24,7 +24,7 @@ body {
     border-radius: 50px;
     color: Yellow;
     cursor: pointer;
-    flex: 0.1;
+    flex: 0.2;
     margin: 10px;
     position: relative;
     transition : flex 1s ease-in;
