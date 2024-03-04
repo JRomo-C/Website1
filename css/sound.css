@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
     box-sizing: border-box;
@@ -24,4 +25,9 @@ body {
     font-size: 2rem;
     cursor: pointer;
     border : none;
+    font-family: "Raleway", sans-serif;
+}
+
+.btn:hover {
+    opacity: 0.8;
 }
