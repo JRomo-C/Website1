@@ -11,3 +11,8 @@ body {
     padding-bottom: 50px;
     font-family: "Hind Siliguri", sans-serif;
 }
+
+.container {
+    max-width: 1200px;
+    margin: auto auto;
+}
