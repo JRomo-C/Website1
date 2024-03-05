@@ -16,3 +16,7 @@ body {
     max-width: 1200px;
     margin: auto auto;
 }
+
+.hero {
+    background-image: url();
+}
