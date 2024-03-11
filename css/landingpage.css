@@ -166,7 +166,7 @@ modal-header h3{
 }
 
 .modal-content {
-    padding 20px;
+    padding: 20px;
 }
 
 .modal-form div {
@@ -185,7 +185,7 @@ modal-header h3{
 
 .close-btn {
     position: absolute;
-    top 0;
+    top: 0;
     right: 0;
     background: transparent;
     font-size: 25px;
