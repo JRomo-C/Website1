@@ -144,7 +144,6 @@ button, input[type=submit] {
     animation-duration: var(--modal-duration);
 }
 
-
 @keyframes modalopen {
     from {
         opacity: 0;
