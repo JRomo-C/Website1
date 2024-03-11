@@ -100,6 +100,7 @@ button, input[type=submit] {
     position: absolute;
     top: 20px;
     left: 20px;
+    border: none;
 }
 
 .cta-btn {
