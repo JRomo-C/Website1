@@ -1,7 +1,7 @@
 toggle = document.getElementById('toggle')
 open = document.getElementById('open')
 modal = document.getElementById('modal')
-close = docuement.getElementById('close')
+close = document.getElementById('close')
 
 //Toggle Nav
 toggle.addEventListener('click',() => {
