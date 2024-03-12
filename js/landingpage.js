@@ -23,5 +23,6 @@ window.addEventListener('click',(e) => {
     if (e.target == modal) {
         modal.classList.remove('show-modal')
     }
-})
+}
+)
 
