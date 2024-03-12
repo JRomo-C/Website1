@@ -146,11 +146,11 @@ button, input[type=submit] {
     (3s);
 }
 
-@keyframes modalopen {
-    from {
+@keyframes modalopen{
+    from{
         opacity: 0;
     }
-    to {
+    to{
         opacity: 1;
     }
 }
