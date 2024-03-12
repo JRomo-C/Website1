@@ -23,12 +23,12 @@ body.show-nav {
 nav {
     background-color: black;
     position: fixed;
-    top : 0;
+    top: 0;
     left: 0;
     width: 200px;
     height: 100%;
-    border-right: 2px solid rgba(200,200,200,0.1)
-    z-index; 100;
+    border-right: 2px solid rgba(200,200,200,0.1);
+    z-index: 100;
     color: white;
     transform: translateX(-100%);
 }
@@ -140,7 +140,7 @@ button, input[type=submit] {
     width: 400px;
     max-width: 100%;
     border-radius: 10px;
-    box-shadow: 0 0 15px; rgba(0,0,0,0.3);
+    box-shadow: 0 0 15px: rgba(0,0,0,0.3);
     animation-name: modalopen;
     animation-duration: var(--modal-duration);
 }
