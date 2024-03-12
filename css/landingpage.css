@@ -3,7 +3,7 @@
 :root {
     --primary-color: rgb(48,51,107);
     --secondary-color: rgb(117,46,221);
-    --modalduration: 1s;
+    --modalduration: 2s;
 }
 
 * {
@@ -142,7 +142,8 @@ button, input[type=submit] {
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0,0,0,0.3);
     animation-name: modalopen;
-    animation-duration: var(--modalduration);
+    animation-duration: var
+    (--modalduration);
 }
 
 @keyframes modalopen {
