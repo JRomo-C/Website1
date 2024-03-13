@@ -9,6 +9,12 @@ body {
 
 }
 
-body.links {
-    
+body h1 {
+    background-color: black;
+    color: white;
+}
+
+body links {
+    background-color: black;
+    padding:
 }
