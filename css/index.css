@@ -18,6 +18,7 @@ body links{
     align-items: center;
     text-align: center;
     padding: 5px;
+    position: absolute;
 }
 
 body links link,a{
