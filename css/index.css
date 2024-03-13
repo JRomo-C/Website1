@@ -26,7 +26,7 @@ body links{
     width: 100%;
 }
 
-body links link,a{
+ link,a {
     color: white;
     font-size: 130%;
     padding: 15px 30px;
