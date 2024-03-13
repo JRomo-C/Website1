@@ -2,6 +2,8 @@
 
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -27,5 +29,12 @@ link, a {
     color: magenta;
     font-size: 130%;
     padding: 15px 30px;
+    text-decoration: none;
+}
 
+link, a:hover {
+    color: magenta;
+    font-size: 130%;
+    padding: 15px 30px;
+    text-decoration: underline;
 }
