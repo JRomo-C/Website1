@@ -4,8 +4,8 @@
 }
 
 body {
-    position: absolute;
-    align-items: left;
+    position: relative;
+
 
 }
 
@@ -16,7 +16,8 @@ body h1 {
 
 body links{
     background-color: black;
-    margin: auto auto;
+    justify-content: center;
+    align-items: center;
 }
 
 body links link,a{
