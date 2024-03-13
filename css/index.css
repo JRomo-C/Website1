@@ -17,10 +17,12 @@ body links{
     justify-content: center;
     align-items: center;
     text-align: center;
+    
 }
 
 body links link,a{
     color: white;
     font-size: 130%;
     padding: 15px 30px;
+
 }
