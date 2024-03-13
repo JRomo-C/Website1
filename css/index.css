@@ -14,7 +14,11 @@ body h1 {
     color: white;
 }
 
-body links {
+body links{
     background-color: black;
     padding:
+}
+
+body links link,a{
+    color: white;
 }
