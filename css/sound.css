@@ -15,6 +15,25 @@ body {
     background-color: indigo;
 }
 
+ul, li {
+    position: fixed;
+    top: 15px;
+    left: 20px;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+ul, li, a {
+    color: gold;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+ul,li a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
 .btn {
     color: gold;
     background-color : black;
